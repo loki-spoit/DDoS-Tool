@@ -1,7 +1,8 @@
-Requirements!
+##### !Requirements!
 
-sudo apt install python
-sudo git clone https://github.com/loki-spoit/DDoS-Tool
+### sudo apt install python
+
+### sudo git clone https://github.com/loki-spoit/DDoS-Tool
 
 # DDos-Attack the Best DDOS TOOL KIDDIES 2020
 
